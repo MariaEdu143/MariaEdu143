@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![HAHAHHAHA](link-da-imagem)
-![]()
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+
+<link rel="stylesheet" href="style.css">
+<h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+<p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p
+
